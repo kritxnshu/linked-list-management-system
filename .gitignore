@@ -1,0 +1,4 @@
+out/
+work/
+*.class
+.DS_Store

@@ -1,0 +1,26 @@
+Linked List Management System - Sample Run
+
+Singly Linked List
+------------------
+Insert at end: 40
+Insert at end: 10
+Insert at end: 30
+List: 40 -> 10 -> 30 -> NULL
+
+Sort
+List: 10 -> 30 -> 40 -> NULL
+
+Reverse
+List: 40 -> 30 -> 10 -> NULL
+
+Doubly Linked List
+------------------
+Insert at end: 10
+Insert at end: 20
+Insert at end: 30
+Forward:  NULL <- 10 <-> 20 <-> 30 -> NULL
+Backward: NULL <- 30 <-> 20 <-> 10 -> NULL
+
+Reverse
+Forward:  NULL <- 30 <-> 20 <-> 10 -> NULL
+Backward: NULL <- 10 <-> 20 <-> 30 -> NULL
