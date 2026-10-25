@@ -68,7 +68,3 @@ Both lists support insertion at the beginning, end, position, before a value, an
 | Reverse | O(n), O(1) extra space | O(n), O(1) extra space |
 | Bubble sort | O(n²) | O(n²) |
 | Remove duplicates | O(n²) | O(n²) |
-
-## Author
-
-Replace this line with your name before submission.
